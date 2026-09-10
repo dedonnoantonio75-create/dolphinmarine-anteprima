@@ -1,0 +1,4 @@
+# Anteprima di lavoro: il sito vero è https://www.dolphinmarine.it
+# Questa copia non va indicizzata.
+User-agent: *
+Disallow: /

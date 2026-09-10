@@ -1,0 +1,23 @@
+{
+  "name": "Cantiere Nautico Dolphin Marine",
+  "short_name": "Dolphin Marine",
+  "description": "Cantiere nautico a Melpignano (Lecce): progettiamo e costruiamo barche in vetroresina su misura da 6 a 7,5 metri, open, walk around e cabinate.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#004886",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "/assets/img/dolphin-marine-icona-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/dolphin-marine-icona-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
