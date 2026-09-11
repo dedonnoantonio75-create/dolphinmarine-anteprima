@@ -629,15 +629,36 @@ body.no-hero .site-head { background: rgba(255, 255, 255, .94); backdrop-filter:
 .foot-links a:hover, .foot-links button:hover, .foot-langs a:hover { color: #fff; }
 .foot-langs a[aria-current] { color: var(--ciano-chiaro); font-weight: 700; }
 
-.wa-float {
-  position: fixed; right: 1rem; bottom: 1rem; z-index: 80;
-  width: 56px; height: 56px; display: grid; place-items: center;
-  background: #25d366; color: #fff; border-radius: 50%;
-  box-shadow: 0 8px 26px rgba(0, 0, 0, .28);
-  transition: transform var(--t);
+/* ------------------------------------------------- barra laterale social
+
+   Colonna fissa a destra: da chiusa sono quattro cerchi, al passaggio del
+   mouse ognuno si allunga e dice cos'è. Su telefono resta una riga in basso. */
+
+.dock {
+  position: fixed; right: .75rem; top: 50%; translate: 0 -50%; z-index: 80;
+  display: flex; flex-direction: column; gap: .55rem;
 }
-.wa-float:hover { transform: scale(1.08); color: #fff; }
-.wa-float .ico { width: 1.7rem; height: 1.7rem; }
+.dock-btn {
+  display: flex; align-items: center; gap: .6rem;
+  width: 52px; height: 52px; padding: 0 14px;
+  border-radius: 999px; overflow: hidden;
+  color: #fff; text-decoration: none; white-space: nowrap;
+  box-shadow: 0 6px 20px rgba(0, 26, 51, .3);
+  transition: width var(--t), transform var(--t), box-shadow var(--t), filter var(--t);
+}
+.dock-btn .ico { width: 1.55rem; height: 1.55rem; }
+.dock-nome { font: 700 .9rem/1 var(--font-c); opacity: 0; transition: opacity .2s ease .05s; }
+.dock-btn:hover, .dock-btn:focus-visible {
+  width: auto; color: #fff; transform: translateX(-3px);
+  box-shadow: 0 10px 28px rgba(0, 26, 51, .4);
+}
+.dock-btn:hover .dock-nome, .dock-btn:focus-visible .dock-nome { opacity: 1; }
+
+.dock-mappa { background: linear-gradient(135deg, var(--blu), var(--blu-chiaro)); }
+.dock-wa { background: #25d366; }
+.dock-mail { background: linear-gradient(135deg, var(--blu-scuro), var(--blu)); }
+.dock-fb { background: #1877f2; }
+.dock-ig { background: linear-gradient(135deg, #f9a03f 0%, #dc2743 45%, #8134af 75%, #515bd4 100%); }
 
 /* -------------------------------------------------------------- cookie */
 
@@ -666,6 +687,24 @@ body.no-hero .site-head { background: rgba(255, 255, 255, .94); backdrop-filter:
 .cc-panel .btn-ghost { background: var(--sabbia); color: var(--blu); border-color: var(--bordo); }
 .cc-panel .btn-ghost:hover { background: var(--sabbia-2); color: var(--blu); }
 .cc-link { display: block; margin: .8rem auto 0; background: none; border: 0; color: var(--testo-2); font: 600 .87rem var(--font-c); cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+
+/* Linguetta che resta in basso a sinistra anche dopo la scelta: chi cambia
+   idea sui cookie deve poterlo fare senza cercare in fondo alla pagina. */
+.cc-tab {
+  position: fixed; left: 0; bottom: 1.1rem; z-index: 79;
+  display: flex; align-items: center; gap: .45rem;
+  padding: .6rem 1rem .6rem .75rem;
+  background: #fff; color: var(--testo-2);
+  border: 1px solid var(--bordo); border-left: 0;
+  border-radius: 0 999px 999px 0;
+  box-shadow: 0 6px 20px rgba(0, 40, 83, .16);
+  font: 600 .84rem/1 var(--font-c); cursor: pointer;
+  translate: -58% 0;
+  transition: translate var(--t), color var(--t), box-shadow var(--t);
+}
+.cc-tab .ico { width: 1.25rem; height: 1.25rem; color: var(--blu); flex: none; }
+.cc-tab span { opacity: .9; }
+.cc-tab:hover, .cc-tab:focus-visible { translate: 0 0; color: var(--blu); box-shadow: 0 10px 26px rgba(0, 40, 83, .22); }
 
 /* ---------------------------------------------------------- animazioni */
 
@@ -710,6 +749,23 @@ body.no-hero .site-head { background: rgba(255, 255, 255, .94); backdrop-filter:
   .numeri { grid-template-columns: repeat(2, 1fr); gap: 1.4rem 1rem; }
   .numeri li:nth-child(odd) { border-left: 0; }
   .cta-box { text-align: left; }
+}
+
+@media (max-width: 860px) {
+  /* su telefono la colonna diventa una riga appoggiata in basso a destra */
+  .dock { top: auto; bottom: .75rem; translate: none; flex-direction: row-reverse; right: .6rem; gap: .45rem; }
+  .dock-btn { width: 46px; height: 46px; padding: 0 11px; }
+  .dock-btn .ico { width: 1.4rem; height: 1.4rem; }
+  .dock-btn:hover, .dock-btn:focus-visible { transform: none; }
+  .dock-nome { display: none; }
+  .cc-tab { bottom: .8rem; translate: -55% 0; padding: .5rem .85rem .5rem .6rem; }
+}
+
+@media (max-width: 430px) {
+  /* sui telefoni stretti i cerchi si stringono, o finiscono sulla linguetta */
+  .dock-btn { width: 42px; height: 42px; padding: 0 9px; }
+  .dock-btn .ico { width: 1.25rem; height: 1.25rem; }
+  .dock { gap: .35rem; right: .45rem; }
 }
 
 @media (max-width: 620px) {

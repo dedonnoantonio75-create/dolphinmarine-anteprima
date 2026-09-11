@@ -173,10 +173,24 @@
     const leggi = () => { try { return JSON.parse(localStorage.getItem(CHIAVE) || 'null'); } catch { return null; } };
     const scrivi = (v) => { try { localStorage.setItem(CHIAVE, JSON.stringify(v)); } catch {} };
 
-    const mostraPannello = () => { pannello.hidden = false; };
-    const nascondi = () => { pannello.hidden = true; };
+    const linguetta = $('#ccTab');
 
-    if (!leggi()) setTimeout(mostraPannello, 900);
+    const mostraPannello = () => {
+      const v = leggi();
+      if (v) $('#ccStats').checked = !!v.stat;
+      pannello.hidden = false;
+      if (linguetta) { linguetta.hidden = true; linguetta.setAttribute('aria-expanded', 'true'); }
+    };
+
+    /* Chiuso il pannello resta la linguetta: la scelta sui cookie si può
+       cambiare in qualsiasi momento, senza cercare il link nel piede. */
+    const nascondi = () => {
+      pannello.hidden = true;
+      if (linguetta) { linguetta.hidden = false; linguetta.setAttribute('aria-expanded', 'false'); }
+    };
+
+    if (leggi()) { if (linguetta) linguetta.hidden = false; }
+    else setTimeout(mostraPannello, 900);
 
     $('#ccAccept').addEventListener('click', () => { scrivi({ stat: true, d: Date.now() }); nascondi(); });
     $('#ccReject').addEventListener('click', () => { scrivi({ stat: false, d: Date.now() }); nascondi(); });
@@ -187,12 +201,10 @@
     });
     $('#ccSave').addEventListener('click', () => { scrivi({ stat: $('#ccStats').checked, d: Date.now() }); nascondi(); });
 
+    if (linguetta) linguetta.addEventListener('click', mostraPannello);
+
     const riapri = $('#ccOpen');
-    if (riapri) riapri.addEventListener('click', () => {
-      const v = leggi();
-      if (v) $('#ccStats').checked = !!v.stat;
-      mostraPannello();
-    });
+    if (riapri) riapri.addEventListener('click', mostraPannello);
   }
 
   /* ------------------------------------------- conferma dopo l'invio form */
