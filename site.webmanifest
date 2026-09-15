@@ -4,8 +4,8 @@
   "description": "Cantiere nautico a Melpignano (Lecce): progettiamo e costruiamo barche in vetroresina su misura da 6 a 7,5 metri, open, walk around e cabinate.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#004886",
+  "background_color": "#0b0c10",
+  "theme_color": "#0b0c10",
   "lang": "it",
   "icons": [
     {
