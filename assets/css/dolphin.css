@@ -429,7 +429,18 @@ a:hover { color: var(--blu-chiaro); }
   transition: border-top-color var(--t);
 }
 .card-boat:hover { transform: translateY(-6px); box-shadow: var(--ombra-alta); border-color: var(--blu-scuro); }
-.card-boat-media { display: block; overflow: hidden; background: var(--sabbia-2); }
+/* Tutte le schede partono dallo stesso fondo argento delle foto in studio.
+   Le poche barche senza scontorno prendono un velo leggero dello stesso
+   colore, così la fila resta uniforme senza truccare la fotografia. */
+.card-boat-media {
+  position: relative; display: block; overflow: hidden;
+  background: linear-gradient(180deg, #eff1f4 0%, #d2d7dd 100%);
+}
+.card-media-foto img { filter: saturate(.92) contrast(1.03); }
+.card-media-foto::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(180deg, rgba(239, 241, 244, .30) 0%, rgba(210, 215, 221, .14) 100%);
+}
 .card-boat-media img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; transition: transform .7s cubic-bezier(.2, .8, .3, 1); }
 .card-boat:hover .card-boat-media img { transform: scale(1.06); }
 .card-boat-body { padding: 1.3rem 1.4rem 1.5rem; display: flex; flex-direction: column; flex: 1; }
