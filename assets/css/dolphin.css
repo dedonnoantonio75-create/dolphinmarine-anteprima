@@ -700,11 +700,17 @@ a:hover { color: var(--blu-chiaro); }
   padding: 1.2rem 0; border-top: 1px solid rgba(255, 255, 255, .12);
   font-size: .87rem;
 }
-.foot-bar p { margin: 0; margin-right: auto; }
+.foot-bar p { margin: 0; }
+.foot-bar > p:first-of-type { margin-right: 1.2rem; }
+.foot-autore { margin-right: auto !important; }
 .foot-links, .foot-langs { display: flex; gap: 1rem; list-style: none; margin: 0; padding: 0; }
 .foot-links a, .foot-links button, .foot-langs a { color: #b9d2e6; text-decoration: none; font-size: .87rem; }
 .foot-links a:hover, .foot-links button:hover, .foot-langs a:hover { color: #fff; }
 .foot-langs a[aria-current] { color: var(--ciano-chiaro); font-weight: 700; }
+
+.foot-autore { margin: 0; font-size: .82rem; letter-spacing: .08em; text-transform: uppercase; color: #7e8795; }
+.foot-autore a { color: #b9c1cb; text-decoration: none; font-weight: 700; }
+.foot-autore a:hover { color: var(--rosso); text-decoration: underline; text-underline-offset: 3px; }
 
 /* ------------------------------------------------- barra laterale social
 
