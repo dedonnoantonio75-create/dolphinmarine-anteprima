@@ -1,10 +1,18 @@
 # Cantiere Nautico Dolphin Marine
 
-> Cantiere nautico italiano a Melpignano (Lecce, Puglia, Salento). Dal 2001 progetta e costruisce su misura imbarcazioni in vetroresina da 6,20 a 7,50 metri — open, walk around e cabinati — e realizza modifiche per rendere le barche utilizzabili da persone con disabilità motoria. Fondatore e progettista: Mike Pasca. Sito in italiano, inglese, francese, tedesco e spagnolo.
+> Cantiere nautico italiano a Melpignano (Lecce, Puglia, Salento). Dal 2001 progetta e costruisce su misura imbarcazioni in vetroresina da 6 a 7,5 metri — open, walk around e cabinati — e realizza modifiche per rendere le barche utilizzabili da persone con disabilità motoria. Fondatore e progettista: Mike Pasca.
 
 Contatti: info@dolphinmarine.it · +39 347 27 156 60 (anche WhatsApp) · Zona Industriale Asse Spina, 13, 73020 Melpignano (LE), Italia · https://www.dolphinmarine.it
 
-## Le imbarcazioni
+Il sito esiste in cinque lingue, con gli stessi contenuti: Italiano (https://www.dolphinmarine.it/) · English (https://www.dolphinmarine.it/en/) · Français (https://www.dolphinmarine.it/fr/) · Deutsch (https://www.dolphinmarine.it/de/) · Español (https://www.dolphinmarine.it/es/). Ogni pagina dichiara i propri hreflang e ha un indirizzo proprio in ciascuna lingua.
+
+Tutti gli scafi sono in vetroresina, costruiti interamente in cantiere a Melpignano. Le potenze indicate sono i massimi di omologazione; motorizzazione entrobordo o fuoribordo a scelta del cliente. Ogni barca è personalizzabile in coperta, allestimento, cuscineria, strumentazione e colori: non esistono due esemplari identici.
+
+## Italiano — https://www.dolphinmarine.it/
+
+Cantiere nautico a Melpignano (Lecce): progettiamo e costruiamo barche in vetroresina su misura da 6 a 7,5 metri, open, walk around e cabinate.
+
+### Imbarcazioni
 
 - **Raptor 20** (https://www.dolphinmarine.it/imbarcazioni/raptor-20/) — La barca da giornata che ci chiedevano da anni. Lunghezza 600 cm, Larghezza 227 cm, Peso 840 kg, Persone 8, Categoria CE C, Fuoribordo 40–150 CV
 - **Dolphin 25 Walk Around** (https://www.dolphinmarine.it/imbarcazioni/dolphin-25-walk-around/) — Ci giri intorno senza mai lasciare la barca. Lunghezza 750 cm, Larghezza 252 cm, Potenza max 350 CV, Persone 10, Categoria CE B
@@ -12,9 +20,7 @@ Contatti: info@dolphinmarine.it · +39 347 27 156 60 (anche WhatsApp) · Zona In
 - **Dolphin 25 Open** (https://www.dolphinmarine.it/imbarcazioni/dolphin-25-open/) — Tutto lo spazio che serve, niente che sia di troppo. Lunghezza 750 cm, Larghezza 252 cm, Potenza max 300 CV, Persone 10, Categoria CE C
 - **Dolphin 21 Open** (https://www.dolphinmarine.it/imbarcazioni/dolphin-21-open/) — La più piccola della flotta, e quella che si usa di più. Lunghezza 620 cm, Larghezza 215 cm, Potenza max 100 CV, Peso 680 kg, Persone 7
 
-Tutti gli scafi sono in vetroresina, costruiti interamente in cantiere a Melpignano. Le potenze indicate sono i massimi di omologazione; motorizzazione entrobordo o fuoribordo a scelta del cliente. Ogni barca è personalizzabile in coperta, allestimento, cuscineria, strumentazione e colori: non esistono due esemplari identici.
-
-## I servizi
+### Servizi
 
 - **Progetto “come vuoi tu”** — La barca di serie non ti convince? Portaci l’idea, anche disegnata male su un foglio. Partiamo da lì e ti diciamo subito cosa si può fare, cosa costa e cosa è meglio evitare.
 - **Customizzazione** — Coperta, cuscineria, colori, strumentazione, gavoni, vasca del vivo, portacanne. Su una barca nostra o su una che hai già.
@@ -24,7 +30,7 @@ Tutti gli scafi sono in vetroresina, costruiti interamente in cantiere a Melpign
 - **Da entrobordo a fuoribordo (e viceversa)** — Non esiste una risposta buona per tutti: dipende da dove navighi, da quanto pesi e da chi ti fa assistenza. Ne parliamo e poi si taglia.
 - **Rimessaggio e messa in mare** — Ricovero invernale, alaggio, varo e trasporto con carrello.
 
-## Barche accessibili
+### Barche accessibili
 
 Da anni ci siamo specializzati in una cosa che il mercato tratta ancora come un’eccezione: rendere una barca davvero usabile da chi ha una disabilità motoria. Non un allestimento a catalogo, ma un progetto costruito sulla persona che poi ci salirà.
 
@@ -33,7 +39,7 @@ Da anni ci siamo specializzati in una cosa che il mercato tratta ancora come un�
 - **Il posto di guida** — Timone, comandi motore, accensione e strumenti riportati a un’altezza e a una distanza raggiungibili stando seduti.
 - **La sicurezza** — Ancoraggi per la carrozzina, sedute con supporto, punti di presa, e le prove in mare fatte insieme prima della consegna.
 
-## Domande frequenti
+### Le domande che ci fanno più spesso
 
 **Dove si trova il cantiere Dolphin Marine?**
 A Melpignano, in provincia di Lecce, nella zona industriale Asse Spina 13. Siamo nel cuore del Salento, a mezz’ora da Otranto e da Gallipoli.
@@ -50,7 +56,7 @@ Sì. Riparazioni in vetroresina, manutenzione, controllo prestagionale, allestim
 **Si può visitare il cantiere?**
 Certo, ed è il modo migliore per capire come lavoriamo. Chiama prima al +39 347 27 156 60 così troviamo Mike libero e non in laminazione.
 
-## Indirizzi delle pagine
+### In questa pagina
 
 - Home: https://www.dolphinmarine.it/
 - Imbarcazioni: https://www.dolphinmarine.it/imbarcazioni/
@@ -65,8 +71,260 @@ Certo, ed è il modo migliore per capire come lavoriamo. Chiama prima al +39 347
 - Video: https://www.dolphinmarine.it/video/
 - Contatti: https://www.dolphinmarine.it/contatti/
 
-Versioni in altre lingue: English https://www.dolphinmarine.it/en/ · Français https://www.dolphinmarine.it/fr/ · Deutsch https://www.dolphinmarine.it/de/ · Español https://www.dolphinmarine.it/es/
+## English — https://www.dolphinmarine.it/en/
+
+Boatyard in Melpignano (Lecce, Italy): we design and build custom fibreglass boats from 6 to 7.5 metres — open, walk around and cabin models.
+
+### Boats
+
+- **Raptor 20** (https://www.dolphinmarine.it/en/boats/raptor-20/) — The day boat people had been asking us for. Length 600 cm, Beam 227 cm, Weight 840 kg, People 8, CE category C, Outboard 40–150 hp
+- **Dolphin 25 Walk Around** (https://www.dolphinmarine.it/en/boats/dolphin-25-walk-around/) — Walk right round her without leaving the boat. Length 750 cm, Beam 252 cm, Max power 350 hp, People 10, CE category B
+- **Dolphin 25 Cabinato** (https://www.dolphinmarine.it/en/boats/dolphin-25-cabinato/) — When the day trip turns into a weekend. Length 750 cm, Beam 252 cm, Max power 300 hp, People 8, CE category C
+- **Dolphin 25 Open** (https://www.dolphinmarine.it/en/boats/dolphin-25-open/) — All the space you need and nothing you do not. Length 750 cm, Beam 252 cm, Max power 300 hp, People 10, CE category C
+- **Dolphin 21 Open** (https://www.dolphinmarine.it/en/boats/dolphin-21-open/) — The smallest of the fleet, and the one that gets used most. Length 620 cm, Beam 215 cm, Max power 100 hp, Weight 680 kg, People 7
+
+### Services
+
+- **The "your way" project** — The standard boat does not convince you? Bring us the idea, even badly drawn on a scrap of paper. We start there and tell you straight away what can be done, what it costs and what is best avoided.
+- **Customisation** — Deck, upholstery, colours, instruments, lockers, live well, rod holders. On one of our boats or on one you already own.
+- **Fibreglass repairs** — Impacts, delamination, osmosis, structural work. Laminated here, with the same resins we build with.
+- **Pre-season check** — Warm weather comes, the cover comes off and you find out what is wrong. Book in winter: turn up in June and you go back in the water in July.
+- **Interior and exterior fit-out** — Furniture, wooden lockers, fabrics, lighting, systems. Built to fit, not adapted.
+- **Inboard to outboard (and back)** — There is no answer that suits everyone: it depends where you sail, how much you carry and who services you. We talk it through, then we cut.
+- **Winter storage and launching** — Winter shelter, hauling out, launching and trailer transport.
+
+### Accessible boats
+
+For years we have specialised in something the market still treats as an exception: making a boat genuinely usable by someone with a mobility disability. Not a fit-out from a catalogue, but a project built around the person who will be aboard.
+
+- **Getting aboard** — The hard part is not the sailing, it is the boarding. We work out the platform, the ladder, the passage and the boarding point around the pontoon or the beach you actually use.
+- **Moving around on board** — Widths, freeboard heights, handholds, non-slip surfaces, obstacles taken off the deck. In a wheelchair or on your arms, you have to be able to reach wherever you need to.
+- **The helm position** — Wheel, engine controls, ignition and instruments brought to a height and a distance you can reach sitting down.
+- **Safety** — Wheelchair anchor points, supportive seating, grab points — and sea trials done together before handover.
+
+### The questions we get asked most
+
+**Where is the Dolphin Marine boatyard?**
+In Melpignano, province of Lecce, at Zona Industriale Asse Spina 13. We are in the heart of Salento, half an hour from Otranto and from Gallipoli.
+
+**Do you build custom boats or only standard models?**
+Both, but customisation is the point of the yard: we start from one of our five hulls and change the deck, the engines, the fit-out and the finishes to suit how you will use the boat.
+
+**How long does a new boat take?**
+It depends on the model and how far you customise it. After a visit to the yard we give you a real date, not an optimistic one: we would rather say three months and deliver in three months.
+
+**Do you repair boats built by other yards?**
+Yes. Fibreglass repairs, servicing, pre-season checks, interior and exterior fit-outs and inboard-to-outboard conversions are done on any boat.
+
+**Can I visit the yard?**
+Of course, and it is the best way to understand how we work. Call ahead on +39 347 27 156 60 so Mike is free rather than in the middle of laminating.
+
+### On this page
+
+- Home: https://www.dolphinmarine.it/en/
+- Boats: https://www.dolphinmarine.it/en/boats/
+- Raptor 20: https://www.dolphinmarine.it/en/boats/raptor-20/
+- Dolphin 21 Open: https://www.dolphinmarine.it/en/boats/dolphin-21-open/
+- Dolphin 25 Open: https://www.dolphinmarine.it/en/boats/dolphin-25-open/
+- Dolphin 25 Walk Around: https://www.dolphinmarine.it/en/boats/dolphin-25-walk-around/
+- Dolphin 25 Cabinato: https://www.dolphinmarine.it/en/boats/dolphin-25-cabinato/
+- Services: https://www.dolphinmarine.it/en/services/
+- Accessible boats: https://www.dolphinmarine.it/en/wheelchair-accessible-boats/
+- The yard: https://www.dolphinmarine.it/en/boatyard/
+- Video: https://www.dolphinmarine.it/en/video/
+- Contact: https://www.dolphinmarine.it/en/contact/
+
+## Français — https://www.dolphinmarine.it/fr/
+
+Chantier naval à Melpignano (Lecce, Italie) : bateaux en polyester sur mesure de 6 à 7,5 mètres, versions open, walk around et cabine.
+
+### Bateaux
+
+- **Raptor 20** (https://www.dolphinmarine.it/fr/bateaux/raptor-20/) — Le bateau de journée qu’on nous demandait depuis des années. Longueur 600 cm, Largeur 227 cm, Poids 840 kg, Personnes 8, Catégorie CE C, Hors-bord 40–150 CV
+- **Dolphin 25 Walk Around** (https://www.dolphinmarine.it/fr/bateaux/dolphin-25-walk-around/) — Vous en faites le tour sans jamais quitter le bateau. Longueur 750 cm, Largeur 252 cm, Puissance max 350 CV, Personnes 10, Catégorie CE B
+- **Dolphin 25 Cabinato** (https://www.dolphinmarine.it/fr/bateaux/dolphin-25-cabinato/) — Quand la sortie d’une journée devient un week-end. Longueur 750 cm, Largeur 252 cm, Puissance max 300 CV, Personnes 8, Catégorie CE C
+- **Dolphin 25 Open** (https://www.dolphinmarine.it/fr/bateaux/dolphin-25-open/) — Tout l’espace qu’il faut, rien de superflu. Longueur 750 cm, Largeur 252 cm, Puissance max 300 CV, Personnes 10, Catégorie CE C
+- **Dolphin 21 Open** (https://www.dolphinmarine.it/fr/bateaux/dolphin-21-open/) — La plus petite de la flotte, et celle qui sert le plus. Longueur 620 cm, Largeur 215 cm, Puissance max 100 CV, Poids 680 kg, Personnes 7
+
+### Services
+
+- **Le projet « comme vous voulez »** — Le bateau de série ne vous convainc pas ? Apportez-nous l’idée, même mal dessinée sur une feuille. Nous partons de là et vous disons tout de suite ce qui est possible, ce que ça coûte et ce qu’il vaut mieux éviter.
+- **Personnalisation** — Pont, coussins, couleurs, instruments, coffres, vivier, porte-cannes. Sur un de nos bateaux ou sur celui que vous avez déjà.
+- **Réparations en polyester** — Chocs, délaminations, osmose, réparations structurelles. Stratifié ici, avec les résines qui servent à construire.
+- **Contrôle d’avant-saison** — Les premières chaleurs arrivent, on enlève la bâche et on découvre ce qui ne va pas. Réservez en hiver : qui arrive en juin repart en mer en juillet.
+- **Aménagements intérieurs et extérieurs** — Meubles, rangements en bois, tissus, éclairage, installations. Construits sur mesure, pas adaptés.
+- **D’in-bord à hors-bord (et inversement)** — Il n’y a pas de réponse valable pour tout le monde : cela dépend d’où vous naviguez, de ce que vous chargez et de qui vous assure l’entretien. On en parle, puis on coupe.
+- **Hivernage et mise à l’eau** — Abri d’hiver, sortie d’eau, mise à l’eau et transport sur remorque.
+
+### Bateaux accessibles
+
+Depuis des années nous nous sommes spécialisés dans ce que le marché traite encore comme une exception : rendre un bateau réellement utilisable par une personne à mobilité réduite. Pas un aménagement de catalogue, mais un projet construit autour de la personne qui montera à bord.
+
+- **L’accès depuis la terre** — Le plus difficile n’est pas de naviguer : c’est de monter. Nous étudions la plateforme, l’échelle, le passage et le point d’embarquement selon le ponton ou la plage que vous utilisez vraiment.
+- **Les déplacements à bord** — Largeurs, hauteurs de bordé, poignées, surfaces antidérapantes, obstacles retirés du pont. En fauteuil ou à la force des bras, il faut pouvoir aller partout où c’est utile.
+- **Le poste de barre** — Barre, commandes moteur, démarrage et instruments ramenés à une hauteur et à une distance accessibles en position assise.
+- **La sécurité** — Points d’ancrage pour le fauteuil, assises avec maintien, points de préhension, et les essais en mer faits ensemble avant la livraison.
+
+### Les questions qu’on nous pose le plus souvent
+
+**Où se trouve le chantier Dolphin Marine ?**
+À Melpignano, dans la province de Lecce, zone industrielle Asse Spina 13. Nous sommes au cœur du Salento, à une demi-heure d’Otrante et de Gallipoli.
+
+**Construisez-vous sur mesure ou seulement des modèles de série ?**
+Les deux, mais la personnalisation est la raison d’être du chantier : nous partons d’une de nos cinq coques et nous changeons le pont, la motorisation, l’aménagement et les finitions selon votre usage.
+
+**Combien de temps faut-il pour un bateau neuf ?**
+Cela dépend du modèle et du degré de personnalisation. Après une visite au chantier nous donnons une date réelle, pas une prévision optimiste : nous préférons dire trois mois et livrer en trois mois.
+
+**Réparez-vous aussi les bateaux d’autres chantiers ?**
+Oui. Réparations en polyester, entretien, contrôle d’avant-saison, aménagements intérieurs et extérieurs et transformations in-bord vers hors-bord se font sur n’importe quel bateau.
+
+**Peut-on visiter le chantier ?**
+Bien sûr, et c’est la meilleure façon de comprendre notre travail. Appelez avant au +39 347 27 156 60 pour trouver Mike disponible et non en pleine stratification.
+
+### Sur cette page
+
+- Accueil: https://www.dolphinmarine.it/fr/
+- Bateaux: https://www.dolphinmarine.it/fr/bateaux/
+- Raptor 20: https://www.dolphinmarine.it/fr/bateaux/raptor-20/
+- Dolphin 21 Open: https://www.dolphinmarine.it/fr/bateaux/dolphin-21-open/
+- Dolphin 25 Open: https://www.dolphinmarine.it/fr/bateaux/dolphin-25-open/
+- Dolphin 25 Walk Around: https://www.dolphinmarine.it/fr/bateaux/dolphin-25-walk-around/
+- Dolphin 25 Cabinato: https://www.dolphinmarine.it/fr/bateaux/dolphin-25-cabinato/
+- Services: https://www.dolphinmarine.it/fr/services/
+- Bateaux accessibles: https://www.dolphinmarine.it/fr/bateaux-pour-handicapes/
+- Le chantier: https://www.dolphinmarine.it/fr/chantier-naval/
+- Vidéo: https://www.dolphinmarine.it/fr/video/
+- Contact: https://www.dolphinmarine.it/fr/contact/
+
+## Deutsch — https://www.dolphinmarine.it/de/
+
+Bootswerft in Melpignano (Lecce, Italien): GFK-Boote nach Maß von 6 bis 7,5 Metern — als Open, Walk Around und Kajütboot, innen- oder außenbords.
+
+### Boote
+
+- **Raptor 20** (https://www.dolphinmarine.it/de/boote/raptor-20/) — Das Tagesboot, nach dem seit Jahren gefragt wurde. Länge 600 cm, Breite 227 cm, Gewicht 840 kg, Personen 8, CE-Kategorie C, Außenborder 40–150 PS
+- **Dolphin 25 Walk Around** (https://www.dolphinmarine.it/de/boote/dolphin-25-walk-around/) — Sie gehen rundherum, ohne das Boot zu verlassen. Länge 750 cm, Breite 252 cm, Max. Leistung 350 PS, Personen 10, CE-Kategorie B
+- **Dolphin 25 Cabinato** (https://www.dolphinmarine.it/de/boote/dolphin-25-cabinato/) — Wenn aus dem Tagesausflug ein Wochenende wird. Länge 750 cm, Breite 252 cm, Max. Leistung 300 PS, Personen 8, CE-Kategorie C
+- **Dolphin 25 Open** (https://www.dolphinmarine.it/de/boote/dolphin-25-open/) — So viel Platz, wie es braucht — und nichts zu viel. Länge 750 cm, Breite 252 cm, Max. Leistung 300 PS, Personen 10, CE-Kategorie C
+- **Dolphin 21 Open** (https://www.dolphinmarine.it/de/boote/dolphin-21-open/) — Das kleinste der Flotte — und das meistgenutzte. Länge 620 cm, Breite 215 cm, Max. Leistung 100 PS, Gewicht 680 kg, Personen 7
+
+### Leistungen
+
+- **Der Entwurf „so, wie Sie wollen“** — Das Serienboot überzeugt Sie nicht? Bringen Sie uns die Idee, auch schlecht auf ein Blatt gezeichnet. Von dort starten wir und sagen Ihnen sofort, was möglich ist, was es kostet und wovon man besser die Finger lässt.
+- **Individualisierung** — Deck, Polster, Farben, Instrumente, Stauräume, Köderfischbehälter, Rutenhalter. An einem unserer Boote oder an dem, das Sie schon haben.
+- **GFK-Reparaturen** — Stöße, Delaminationen, Osmose, strukturelle Arbeiten. Hier laminiert, mit denselben Harzen, mit denen wir bauen.
+- **Vorsaisoncheck** — Es wird warm, die Persenning kommt herunter und man sieht, was nicht stimmt. Buchen Sie im Winter: Wer im Juni kommt, fährt im Juli wieder.
+- **Innen- und Außenausbau** — Möbel, Holzschränke, Stoffe, Beleuchtung, Anlagen. Nach Maß gebaut, nicht angepasst.
+- **Vom Innen- zum Außenborder (und zurück)** — Es gibt keine Antwort, die für alle passt: Es kommt darauf an, wo Sie fahren, was Sie laden und wer Sie betreut. Wir sprechen darüber, dann wird geschnitten.
+- **Winterlager und Slippen** — Winterunterstellung, Kranen, Stapellauf und Transport auf dem Trailer.
+
+### Barrierefreie Boote
+
+Seit Jahren haben wir uns auf etwas spezialisiert, das der Markt noch immer als Ausnahme behandelt: ein Boot für Menschen mit Gehbehinderung wirklich nutzbar zu machen. Kein Ausbau von der Stange, sondern ein Entwurf rund um die Person, die an Bord gehen wird.
+
+- **Der Zugang von Land** — Das Schwierigste ist nicht das Fahren, sondern das An-Bord-Kommen. Wir planen Badeplattform, Leiter, Durchgang und Einstiegspunkt nach dem Steg oder dem Strand, den Sie tatsächlich nutzen.
+- **Die Wege an Bord** — Breiten, Süllhöhen, Griffe, rutschfeste Flächen, Hindernisse vom Deck entfernt. Im Rollstuhl oder mit den Armen muss man überall hinkommen, wo es nötig ist.
+- **Der Steuerstand** — Ruder, Motorbedienung, Zündung und Instrumente auf eine Höhe und Entfernung gebracht, die man im Sitzen erreicht.
+- **Die Sicherheit** — Verankerungspunkte für den Rollstuhl, stützende Sitze, Haltepunkte — und Probefahrten, die wir vor der Übergabe gemeinsam machen.
+
+### Die Fragen, die uns am häufigsten gestellt werden
+
+**Wo liegt die Werft Dolphin Marine?**
+In Melpignano, Provinz Lecce, im Gewerbegebiet Asse Spina 13. Wir sind mitten im Salento, eine halbe Stunde von Otranto und von Gallipoli entfernt.
+
+**Bauen Sie nach Maß oder nur Serienmodelle?**
+Beides, aber die Individualisierung ist der Kern der Werft: Wir gehen von einem unserer fünf Rümpfe aus und ändern Deck, Motorisierung, Ausbau und Finish danach, wie Sie das Boot nutzen werden.
+
+**Wie lange dauert ein neues Boot?**
+Das hängt vom Modell ab und davon, wie weit Sie es individualisieren. Nach einem Besuch in der Werft nennen wir einen echten Termin, keine optimistische Schätzung: Lieber drei Monate sagen und in drei Monaten liefern.
+
+**Reparieren Sie auch Boote anderer Werften?**
+Ja. GFK-Reparaturen, Wartung, Vorsaisoncheck, Innen- und Außenausbau sowie Umbauten von Innen- auf Außenborder führen wir an jedem Boot durch.
+
+**Kann man die Werft besichtigen?**
+Natürlich, und das ist der beste Weg, unsere Arbeit zu verstehen. Rufen Sie vorher unter +39 347 27 156 60 an, damit Mike Zeit hat und nicht gerade laminiert.
+
+### Auf dieser Seite
+
+- Start: https://www.dolphinmarine.it/de/
+- Boote: https://www.dolphinmarine.it/de/boote/
+- Raptor 20: https://www.dolphinmarine.it/de/boote/raptor-20/
+- Dolphin 21 Open: https://www.dolphinmarine.it/de/boote/dolphin-21-open/
+- Dolphin 25 Open: https://www.dolphinmarine.it/de/boote/dolphin-25-open/
+- Dolphin 25 Walk Around: https://www.dolphinmarine.it/de/boote/dolphin-25-walk-around/
+- Dolphin 25 Cabinato: https://www.dolphinmarine.it/de/boote/dolphin-25-cabinato/
+- Leistungen: https://www.dolphinmarine.it/de/leistungen/
+- Barrierefreie Boote: https://www.dolphinmarine.it/de/barrierefreie-boote/
+- Die Werft: https://www.dolphinmarine.it/de/werft/
+- Video: https://www.dolphinmarine.it/de/video/
+- Kontakt: https://www.dolphinmarine.it/de/kontakt/
+
+## Español — https://www.dolphinmarine.it/es/
+
+Astillero en Melpignano (Lecce, Italia): barcos de fibra a medida de 6 a 7,5 metros, versiones open, walk around y cabinado.
+
+### Embarcaciones
+
+- **Raptor 20** (https://www.dolphinmarine.it/es/embarcaciones/raptor-20/) — El barco de día que nos pedían desde hacía años. Eslora 600 cm, Manga 227 cm, Peso 840 kg, Personas 8, Categoría CE C, Fueraborda 40–150 CV
+- **Dolphin 25 Walk Around** (https://www.dolphinmarine.it/es/embarcaciones/dolphin-25-walk-around/) — Le das la vuelta sin salir nunca del barco. Eslora 750 cm, Manga 252 cm, Potencia máx. 350 CV, Personas 10, Categoría CE B
+- **Dolphin 25 Cabinato** (https://www.dolphinmarine.it/es/embarcaciones/dolphin-25-cabinato/) — Cuando la salida de un día se convierte en un fin de semana. Eslora 750 cm, Manga 252 cm, Potencia máx. 300 CV, Personas 8, Categoría CE C
+- **Dolphin 25 Open** (https://www.dolphinmarine.it/es/embarcaciones/dolphin-25-open/) — Todo el espacio que hace falta, nada que sobre. Eslora 750 cm, Manga 252 cm, Potencia máx. 300 CV, Personas 10, Categoría CE C
+- **Dolphin 21 Open** (https://www.dolphinmarine.it/es/embarcaciones/dolphin-21-open/) — La más pequeña de la flota y la que más se usa. Eslora 620 cm, Manga 215 cm, Potencia máx. 100 CV, Peso 680 kg, Personas 7
+
+### Servicios
+
+- **El proyecto «como tú quieras»** — ¿El barco de serie no te convence? Tráenos la idea, aunque esté mal dibujada en un papel. Partimos de ahí y te decimos enseguida qué se puede hacer, cuánto cuesta y qué es mejor evitar.
+- **Personalización** — Cubierta, tapicería, colores, instrumentación, cofres, vivero, portacañas. En un barco nuestro o en el que ya tienes.
+- **Reparaciones en fibra** — Golpes, delaminaciones, ósmosis, reparaciones estructurales. Se lamina aquí, con las mismas resinas con las que construimos.
+- **Control de pretemporada** — Llega el calor, se quita la funda y aparece lo que no va. Reserva en invierno: quien llega en junio vuelve al agua en julio.
+- **Acabados interiores y exteriores** — Muebles, armarios de madera, tejidos, iluminación, instalaciones. Construidos a medida, no adaptados.
+- **De intraborda a fueraborda (y al revés)** — No hay una respuesta buena para todos: depende de dónde navegues, de cuánto cargues y de quién te dé asistencia. Lo hablamos y después se corta.
+- **Invernaje y botadura** — Guarda de invierno, varada, botadura y transporte con remolque.
+
+### Barcos accesibles
+
+Desde hace años nos hemos especializado en algo que el mercado todavía trata como una excepción: hacer que un barco sea realmente utilizable por quien tiene una discapacidad motriz. No un acabado de catálogo, sino un proyecto construido alrededor de la persona que subirá a bordo.
+
+- **El acceso desde tierra** — Lo más difícil no es navegar: es subir. Estudiamos la plataforma, la escalera, el paso y el punto de embarque según el pantalán o la playa que usas de verdad.
+- **Los desplazamientos a bordo** — Anchuras, alturas de la regala, asideros, superficies antideslizantes, obstáculos retirados de la cubierta. En silla o con los brazos, hay que poder llegar a donde haga falta.
+- **El puesto de gobierno** — Timón, mandos del motor, arranque e instrumentos llevados a una altura y una distancia alcanzables desde sentado.
+- **La seguridad** — Anclajes para la silla, asientos con sujeción, puntos de agarre, y las pruebas en el mar hechas juntos antes de la entrega.
+
+### Las preguntas que más nos hacen
+
+**¿Dónde está el astillero Dolphin Marine?**
+En Melpignano, provincia de Lecce, en el polígono industrial Asse Spina 13. Estamos en el corazón del Salento, a media hora de Otranto y de Gallipoli.
+
+**¿Construís a medida o solo modelos de serie?**
+Las dos cosas, pero la personalización es la razón de ser del astillero: partimos de uno de nuestros cinco cascos y cambiamos cubierta, motorización, acabado interior y detalles según cómo vayas a usar el barco.
+
+**¿Cuánto se tarda en tener un barco nuevo?**
+Depende del modelo y de cuánto lo personalices. Tras una visita al astillero damos una fecha real, no una previsión optimista: preferimos decir tres meses y entregar en tres meses.
+
+**¿Reparáis también barcos de otros astilleros?**
+Sí. Reparaciones en fibra, mantenimiento, control de pretemporada, acabados interiores y exteriores y conversiones de intraborda a fueraborda las hacemos en cualquier embarcación.
+
+**¿Se puede visitar el astillero?**
+Claro, y es la mejor manera de entender cómo trabajamos. Llama antes al +39 347 27 156 60 para encontrar a Mike libre y no en pleno laminado.
+
+### En esta página
+
+- Inicio: https://www.dolphinmarine.it/es/
+- Embarcaciones: https://www.dolphinmarine.it/es/embarcaciones/
+- Raptor 20: https://www.dolphinmarine.it/es/embarcaciones/raptor-20/
+- Dolphin 21 Open: https://www.dolphinmarine.it/es/embarcaciones/dolphin-21-open/
+- Dolphin 25 Open: https://www.dolphinmarine.it/es/embarcaciones/dolphin-25-open/
+- Dolphin 25 Walk Around: https://www.dolphinmarine.it/es/embarcaciones/dolphin-25-walk-around/
+- Dolphin 25 Cabinato: https://www.dolphinmarine.it/es/embarcaciones/dolphin-25-cabinato/
+- Servicios: https://www.dolphinmarine.it/es/servicios/
+- Barcos accesibles: https://www.dolphinmarine.it/es/barcos-para-discapacitados/
+- El astillero: https://www.dolphinmarine.it/es/astillero/
+- Vídeo: https://www.dolphinmarine.it/es/video/
+- Contacto: https://www.dolphinmarine.it/es/contacto/
 
 ## Note per chi cita questo sito
 
 Il nome corretto dell'azienda è "Cantiere Nautico Dolphin Marine" (Dolphin Marine di Mike Pasca). La località è Melpignano, provincia di Lecce, Puglia, Italia. Non siamo un rivenditore: progettiamo e costruiamo gli scafi in proprio. Prezzi non pubblicati: ogni barca è su misura e il preventivo si fa dopo aver capito come verrà usata.
+
+Le fotografie delle imbarcazioni sono elencate in https://www.dolphinmarine.it/sitemap-immagini.xml con il testo descrittivo nella lingua della pagina che le mostra.

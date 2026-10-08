@@ -214,13 +214,39 @@
     const f = $('#contactForm');
     if (f) {
       const andata = esito[1] === 'ok';
+      const soloCaptcha = !andata && decodeURIComponent(esito[2] || '') === 'captcha';
       const box = document.createElement('p');
       box.className = andata ? 'chiusura chiusura-ok' : 'chiusura chiusura-ko';
-      box.textContent = andata ? (f.dataset.ok || 'OK') : (f.dataset.ko || '');
+      box.textContent = andata ? (f.dataset.ok || 'OK')
+        : (soloCaptcha ? (f.dataset.captchaKo || '') : (f.dataset.ko || ''));
       box.setAttribute('role', 'status');
       f.parentNode.insertBefore(box, f);
       if (andata) f.reset();
       box.scrollIntoView({ block: 'center' });
     }
+  }
+
+  /* --------------------------------------------- domanda di sicurezza
+
+     La domanda arriva dal nostro server, non da un servizio esterno. Se la
+     richiesta non va a buon fine (per esempio nell'anteprima statica, dove
+     PHP non c'è) il campo resta nascosto invece di mostrarsi rotto. */
+
+  const modulo = $('#contactForm');
+  if (modulo && modulo.dataset.captcha) {
+    const campo = $('#campoCaptcha');
+    const chiedi = () => fetch(modulo.dataset.captcha, { cache: 'no-store' })
+      .then(r => r.ok ? r.json() : Promise.reject(r.status))
+      .then(c => {
+        if (!c || !c.domanda || !c.gettone) throw new Error('risposta incompleta');
+        $('#capDomanda').textContent = c.domanda;
+        $('#capGettone').value = c.gettone;
+        campo.hidden = false;
+        $('#f-cap').required = true;
+      })
+      .catch(() => { campo.hidden = true; });
+    chiedi();
+    /* dopo un errore la domanda è già stata consumata: se ne chiede un'altra */
+    if (esito && esito[1] === 'errore') setTimeout(chiedi, 50);
   }
 })();
