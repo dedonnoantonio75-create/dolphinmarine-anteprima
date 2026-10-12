@@ -1,3 +1,10 @@
 # i sorgenti non devono mai finire in questo repo pubblico
 /dolphinmarine.it/
 /nuovo dolphimarine/
+
+# file che servono solo sul server PHP di Aruba: qui non funzionano, e
+# captcha.php contiene la chiave segreta del captcha
+/.htaccess
+/_redirects
+/captcha.php
+/invia.php

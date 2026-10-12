@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.dolphinmarine.it/video/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.dolphinmarine.it/assets/img/video/raptor-20-dolphin-marine-poster-1280.jpg</video:thumbnail_loc>
+      <video:title>Raptor 20 — il nuovo open</video:title>
+      <video:description>La presentazione del modello appena entrato in produzione: linee di carena, pozzetto passante e prendisole di prua.</video:description>
+      <video:content_loc>https://www.dolphinmarine.it/assets/video/raptor-20-dolphin-marine.mp4</video:content_loc>
+      <video:duration>16</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.dolphinmarine.it/en/video/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.dolphinmarine.it/assets/img/video/raptor-20-dolphin-marine-poster-1280.jpg</video:thumbnail_loc>
+      <video:title>Raptor 20 — the new open</video:title>
+      <video:description>The presentation of the model that has just entered production: hull lines, walk-through cockpit and bow sun pad.</video:description>
+      <video:content_loc>https://www.dolphinmarine.it/assets/video/raptor-20-dolphin-marine.mp4</video:content_loc>
+      <video:duration>16</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.dolphinmarine.it/fr/video/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.dolphinmarine.it/assets/img/video/raptor-20-dolphin-marine-poster-1280.jpg</video:thumbnail_loc>
+      <video:title>Raptor 20 — le nouvel open</video:title>
+      <video:description>La présentation du modèle qui vient d’entrer en production : lignes de carène, cockpit traversant et bain de soleil avant.</video:description>
+      <video:content_loc>https://www.dolphinmarine.it/assets/video/raptor-20-dolphin-marine.mp4</video:content_loc>
+      <video:duration>16</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.dolphinmarine.it/de/video/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.dolphinmarine.it/assets/img/video/raptor-20-dolphin-marine-poster-1280.jpg</video:thumbnail_loc>
+      <video:title>Raptor 20 — das neue Open</video:title>
+      <video:description>Die Vorstellung des Modells, das gerade in Produktion gegangen ist: Rumpflinien, durchgehendes Cockpit und Sonnenliege am Bug.</video:description>
+      <video:content_loc>https://www.dolphinmarine.it/assets/video/raptor-20-dolphin-marine.mp4</video:content_loc>
+      <video:duration>16</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.dolphinmarine.it/es/video/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.dolphinmarine.it/assets/img/video/raptor-20-dolphin-marine-poster-1280.jpg</video:thumbnail_loc>
+      <video:title>Raptor 20 — el nuevo open</video:title>
+      <video:description>La presentación del modelo que acaba de entrar en producción: líneas del casco, bañera pasante y solárium de proa.</video:description>
+      <video:content_loc>https://www.dolphinmarine.it/assets/video/raptor-20-dolphin-marine.mp4</video:content_loc>
+      <video:duration>16</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+</urlset>
